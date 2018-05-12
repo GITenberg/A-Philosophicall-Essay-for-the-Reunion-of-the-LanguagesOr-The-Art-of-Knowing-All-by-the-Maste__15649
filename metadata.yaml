@@ -1,0 +1,28 @@
+_repo: A-Philosophicall-Essay-for-the-Reunion-of-the-LanguagesOr-The-Art-of-Knowing-All-by-the-Maste__15649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besnier, Pierre
+    birthdate: 1648
+    deathdate: 1705
+    gutenberg_agent_id: '6180'
+    url: http://www.gutenberg.org/2009/agents/6180
+description: ''
+gutenberg_issued: '2005-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Language and languages -- Philosophy -- Early works to 1800'
+title: 'A Philosophicall Essay for the Reunion of the Languages
+
+  Or, The Art of Knowing All by the Mastery of One'
+url: http://www.gutenberg.org/ebooks/15649
